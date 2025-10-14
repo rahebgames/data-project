@@ -38,6 +38,7 @@
     ".git"
   ],
   "imports": {
-    "vite": "npm:vite@4.4.5"
+    "vite": "npm:vite@4.4.5",
+    "fflate": "npm:fflate"
   }
 }
