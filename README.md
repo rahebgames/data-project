@@ -10,11 +10,11 @@ Made for a school project.
 
 ## Answer
 
-My intent was to visulize data using fractals. I started out with a fractal tree, as that is a good combination of fractals and common data types (like binary search trees). However, I quickly realized that there is very little data one could encode into a fractal due to the repetetive nature. Because of this, the final result isn't quite a fractal, but the code behind it is very similar. Despite not quite being what I set out to do, I am nonetheless very happy with the result, as it is pretty much what I envisioned regardless.
+My intent was to visualize data using fractals. I started out with a fractal tree, as that is a good combination of fractals and common data types (like binary search trees). However, I quickly realized that there is very little data one could encode into a fractal due to the repetitive nature. Because of this, the final result isn't quite a fractal, but the code behind it is very similar. Despite not quite being what I set out to do, I am nonetheless very happy with the result, as it is pretty much what I envisioned regardless.
 
 ## How it works
 
-First, the program encodes the entered string using the fflate library (<https://github.com/101arrowz/fflate>). Then, it uses the encoded data to select an angle for each branch, then draws the branches at that angle. I restricted the max angle it can choose, as without the restriction the tree is an unintelligable mess.
+First, the program encodes the entered string using the fflate library (<https://github.com/101arrowz/fflate>). Then, it uses the encoded data to select an angle for each branch, then draws the branches at that angle. I restricted the max angle it can choose, as without the restriction the tree is an unintelligible mess.
 
 ## Default text
 
