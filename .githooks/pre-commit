@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Pre-commit hook for CMPM 121 project
+# Pre-commit hook for string-to-tree project
 # This hook runs formatting checks, linting, and type checking before each commit
 
 echo "🔍 Running pre-commit checks..."
